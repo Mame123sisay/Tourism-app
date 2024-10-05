@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7a1d337.css",
+    "main.js": "/static/js/main.17a9c73f.js",
+    "static/js/453.a6c051e6.chunk.js": "/static/js/453.a6c051e6.chunk.js",
+    "static/media/lalibela.jpg": "/static/media/lalibela.3f17a011bfc2c72c2e5d.jpg",
+    "static/media/addis-ababa.jpg": "/static/media/addis-ababa.5ec0aa2c90bc74d79ecf.jpg",
+    "static/media/image5.jpeg": "/static/media/image5.879b785dec3ba711e9b8.jpeg",
+    "static/media/hero.jpg": "/static/media/hero.e25c0e4f3a2c96dfa039.jpg",
+    "static/media/semien-mountain.jpg": "/static/media/semien-mountain.5b950ec745cf65a00d4b.jpg",
+    "static/media/image1.jpeg": "/static/media/image1.995b6e10bd1dbe6b39eb.jpeg",
+    "static/media/image2.jpeg": "/static/media/image2.7ec6c5c94c17b1e7ea5b.jpeg",
+    "index.html": "/index.html",
+    "main.e7a1d337.css.map": "/static/css/main.e7a1d337.css.map",
+    "main.17a9c73f.js.map": "/static/js/main.17a9c73f.js.map",
+    "453.a6c051e6.chunk.js.map": "/static/js/453.a6c051e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7a1d337.css",
+    "static/js/main.17a9c73f.js"
+  ]
+}
