@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: rgb(74, 124, 46);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  position: relative;
+}
+
+.main-part {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 200px;
+  height: 90px;
+  border-radius: 10px;
+}
+
+.hamburger {
+  display: none;
+  font-size: 30px;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+}
+
+.items {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.items li {
+  margin: 0 15px;
+  color: RGB(246, 195, 77);
+  font-size: 20px;
+}
+
+.items li:hover {
+  color: white;
+  cursor: pointer;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .hamburger {
+      display: block; /* Show hamburger on mobile */
+  }
+
+  .nav-menu {
+      display: none; /* Hide menu by default */
+      flex-direction: column;
+      position: absolute;
+      background-color: rgb(74, 124, 46);
+      top: 60px; /* Adjust based on header height */
+      right: 0;
+      width: 100%;
+  }
+
+  .nav-menu.open {
+      display: flex; /* Show menu when open */
+  }
+
+  .items {
+      flex-direction: column;
+  }
+
+  .items li {
+      margin: 10px 0; /* Space for vertical menu */
+  }
+}
