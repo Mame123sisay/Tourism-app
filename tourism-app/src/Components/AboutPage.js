@@ -1,6 +1,6 @@
 import React from 'react';
 import '../style/style.css'; // Ensure the correct path to your CSS
-import logo from '../image/logo.jpeg';
+import logo from '../image/log1.png';
 import image1 from '../image/image1.jpeg';
 import image5 from '../image/image5.jpeg';
 import NavBar from './NavBar'; // If you're using NavBar, ensure it's included
