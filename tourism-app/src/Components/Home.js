@@ -43,12 +43,12 @@ const Home = () => {
       <div className="main-content-2">
       <p className='title'>Addis Ababa</p>
       <img src={addisAbaba} alt="semen mountain"/>
-      <p className='description'>The Simien Mountains, located in northern Ethiopia, are a stunning mountain range known for their dramatic landscapes, unique wildlife, and rich cultural heritage. Designated as a UNESCO World Heritage Site, the area features jagged peaks, deep valleys, and endemic species like the Ethiopian wolf and the Gelada baboon. The Simien Mountains are popular for trekking, offering breathtaking views and a chance to experience the natural beauty and diverse ecosystems of Ethiopia.</p>
+      <p className='description'>Addis Ababa, the capital city of Ethiopia, is a vibrant hub of culture, history, and commerce. Nestled in the highlands at over 2,400 meters, it offers stunning views and a pleasant climate. Visitors can explore the National Museum, home to the famous fossil "Lucy," and the Holy Trinity Cathedral, known for its beautiful architecture. The city is also a melting pot of cultures, with bustling markets, diverse cuisine, and lively nightlife, making it a must-visit destination for travelers.</p>
       </div>
       <div className="main-content-2">
       <p className='title'>Lalibela</p>
       <img src={lalibela} alt="semen mountain"/>
-      <p className='description'>The Simien Mountains, located in northern Ethiopia, are a stunning mountain range known for their dramatic landscapes, unique wildlife, and rich cultural heritage. Designated as a UNESCO World Heritage Site, the area features jagged peaks, deep valleys, and endemic species like the Ethiopian wolf and the Gelada baboon. The Simien Mountains are popular for trekking, offering breathtaking views and a chance to experience the natural beauty and diverse ecosystems of Ethiopia.</p>
+      <p className='description'>Lalibela is renowned for its remarkable rock-hewn churches, a UNESCO World Heritage Site that draws pilgrims and tourists alike. Carved from solid rock in the 12th century, these churches are architectural marvels and a testament to Ethiopia's rich Christian heritage. The most famous, St. George's Church, is shaped like a cross and offers breathtaking views. Lalibela's spiritual significance and stunning landscapes make it a unique destination for those seeking history and culture in Ethiopia.</p>
       </div>
      
       </div>
