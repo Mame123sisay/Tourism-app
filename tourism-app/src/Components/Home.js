@@ -1,6 +1,6 @@
 import React from 'react'
 import style from '../style/style.css';
-import logo from '../image/logo.jpeg';
+import logo from '../image/log1.png';
 import hero from '../image/hero.jpg';
 import semienMountain from '../image/semien-mountain.jpg';
 import { Facebook, Twitter, Instagram } from '@mui/icons-material';
